@@ -16,6 +16,7 @@
         <module>method-reference</module>
         <module>optional</module>
         <module>stream-api</module>
+        <module>collectors</module>
     </modules>
 
     <build>
