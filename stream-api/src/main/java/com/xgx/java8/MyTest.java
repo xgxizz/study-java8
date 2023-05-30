@@ -7,6 +7,8 @@ import java.util.stream.LongStream;
 public class MyTest {
 
     public static void main(String[] args) {
-//        LongStream.range(0,100000).collect(Collectors.toList())
+        String str = (String) null;
+        System.out.println(str);
+        Thread t = new Thread();
     }
 }
